@@ -1,0 +1,44 @@
+2024-04-17 14:47:55,788 [INFO] Server started
+2024-04-17 14:48:00,173 [INFO] Connected with ('127.0.0.1', 52318)
+2024-04-17 14:48:00,173 [INFO] ('127.0.0.1', 52318) said:'Hello, world'1
+2024-04-17 14:48:02,175 [INFO] Server responded 'dlrow ,olleH Polienko Veniamin Sergeevich' to ('127.0.0.1', 52318)
+2024-04-17 14:53:08,875 [INFO] Server started
+2024-04-17 14:53:10,729 [INFO] Connected with ('127.0.0.1', 53738)
+2024-04-17 14:53:10,729 [INFO] ('127.0.0.1', 53738) said:'Hello, world'1
+2024-04-17 14:53:12,732 [INFO] Server responded 'dlrow ,olleH Polienko Veniamin Sergeevich' to ('127.0.0.1', 53738)
+2024-04-17 15:38:51,765 [INFO] Server has been launched
+2024-04-17 15:39:16,030 [INFO] Connected with ('127.0.0.1', 36492)
+2024-04-17 15:39:16,030 [INFO] ('127.0.0.1', 36492) said:'Hello from client'1
+2024-04-17 15:39:18,032 [INFO] Server responded 'tneilc morf olleH Polienko Veniamin Sergeevich' to ('127.0.0.1', 36492)
+2024-04-17 15:39:24,739 [INFO] Server has been shut down
+2024-04-17 17:41:58,625 [INFO] Server has been launched
+2024-04-17 17:54:34,137 [INFO] Connected with ('127.0.0.1', 50550)
+2024-04-17 17:54:34,137 [INFO] ('127.0.0.1', 50550) said:''1
+2024-04-17 17:54:36,140 [INFO] Server responded ' Polienko Veniamin Sergeevich' to ('127.0.0.1', 50550)
+2024-04-17 18:03:04,947 [INFO] Connected with ('127.0.0.1', 33996)
+2024-04-17 18:03:04,947 [INFO] ('127.0.0.1', 33996) said:'Hello from client'1
+2024-04-17 18:03:06,950 [INFO] Server responded 'tneilc morf olleH Polienko Veniamin Sergeevich' to ('127.0.0.1', 33996)
+2024-04-17 18:07:38,172 [INFO] Connected with ('127.0.0.1', 41772)
+2024-04-17 18:07:39,923 [INFO] ('127.0.0.1', 41772) said:''1
+2024-04-17 18:07:41,926 [INFO] Server responded ' Polienko Veniamin Sergeevich' to ('127.0.0.1', 41772)
+2024-04-17 18:11:37,160 [INFO] Connected with ('127.0.0.1', 56848)
+2024-04-17 18:11:42,160 [INFO] ('127.0.0.1', 56848) said:'Polienko Veniamin Sergevich M3O-310-21'1
+2024-04-17 18:11:44,162 [INFO] Server responded '12-013-O3M hcivegreS nimaineV okneiloP Polienko Veniamin Sergeevich' to ('127.0.0.1', 56848)
+2024-04-17 18:15:54,395 [INFO] Connected with ('127.0.0.1', 45254)
+2024-04-17 18:15:59,395 [INFO] ('127.0.0.1', 45254) said:'Polienko Veniamin Sergevich M3O-310-21'1
+2024-04-17 18:16:01,396 [INFO] Server responded '12-013-O3M hcivegreS nimaineV okneiloP Polienko Veniamin Sergeevich' to ('127.0.0.1', 45254)
+2024-04-17 18:17:10,091 [INFO] Connected with ('127.0.0.1', 43068)
+2024-04-17 18:17:15,091 [INFO] ('127.0.0.1', 43068) said:'Polienko Veniamin Sergevich M3O-310-21'1
+2024-04-17 18:17:17,094 [INFO] Server responded '12-013-O3M hcivegreS nimaineV okneiloP Polienko Veniamin Sergeevich' to ('127.0.0.1', 43068)
+2024-04-17 18:25:19,160 [INFO] Connected with ('127.0.0.1', 38186)
+2024-04-17 18:25:24,160 [INFO] ('127.0.0.1', 38186) said:'Polienko Veniamin Sergevich M3O-310-21'1
+2024-04-17 18:25:26,163 [INFO] Server responded '12-013-O3M hcivegreS nimaineV okneiloP Polienko Veniamin Sergeevich' to ('127.0.0.1', 38186)
+2024-04-17 18:25:37,238 [INFO] Server has been shut down
+2024-04-17 18:25:37,972 [INFO] Server has been launched
+2024-04-17 18:25:41,908 [INFO] Connected with ('127.0.0.1', 38152)
+2024-04-17 18:25:46,908 [INFO] ('127.0.0.1', 38152) said:'Polienko Veniamin Sergevich M3O-310-21'1
+2024-04-17 18:25:48,911 [INFO] Server responded '12-013-O3M hcivegreS nimaineV okneiloP Server was created by Polienko Veniamin Sergeevich' to ('127.0.0.1', 38152)
+2024-04-17 18:26:41,533 [INFO] Connected with ('127.0.0.1', 53772)
+2024-04-17 18:26:46,533 [INFO] ('127.0.0.1', 53772) said:'Polienko Veniamin Sergevich M3O-310-21'1
+2024-04-17 18:26:48,535 [INFO] Server responded '12-013-O3M hcivegreS nimaineV okneiloP Server was created by Polienko Veniamin Sergeevich' to ('127.0.0.1', 53772)
+2024-04-17 18:43:27,612 [INFO] Server has been shut down
